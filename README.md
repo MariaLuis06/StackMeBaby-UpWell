@@ -1,9 +1,5 @@
 # UPWELL — BEM-ESTAR PERSONALIZADO PARA QUEM VIVE COM DOENÇA CRÓNICA
 
-**Repositório público:** https://github.com/MariaLuis06/StackMeBaby-UpWell
-
-**Identidade gráfica:** https://www.figma.com/files/team/1631710077451975003/project/595083269?fuid=1631710074113413394
-
 ---
 
 ## O Problema
