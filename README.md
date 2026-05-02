@@ -9,9 +9,9 @@ UpWell
 
 -Martim Caldeira Brito  
 
--Maria Luis da Silva 
+-Maria Luís Rodrigues da Silva 
 
--Francisco Mendes 
+-Francisco Ferreira Mendes 
 
 
 ## Descrição
