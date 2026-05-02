@@ -1,21 +1,3 @@
-# Nome do Projeto
-
-
-UpWell
-
-## Equipa
-  
--Martim Neves Pardal dos Santos Silva  
-
--Martim Caldeira de Brito  
-
--Maria Luís Rodrigues da Silva 
-
--Francisco Ferreira Mendes 
-
-
-## Descrição
-
 # UPWELL — BEM-ESTAR PERSONALIZADO PARA QUEM VIVE COM DOENÇA CRÓNICA
 
 **Repositório público:** https://github.com/MariaLuis06/StackMeBaby-UpWell
@@ -44,7 +26,15 @@ As áreas de foco disponíveis são:
 
 Privacy by design: os dados de saúde são usados apenas para gerar o plano e nunca são persistidos. O utilizador é identificado apenas pelo email, guardado separadamente de qualquer dado clínico.
 
+## Equipa
+  
+-Martim Neves Pardal dos Santos Silva  
 
+-Martim Caldeira de Brito  
+
+-Maria Luís Rodrigues da Silva 
+
+-Francisco Ferreira Mendes 
 
 ## Licença
 
